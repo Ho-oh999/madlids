@@ -1,7 +1,6 @@
 name = input ("hello, what is your name?")
 print (f"hi {name}. lets start." )
 
-
 print()
 
 holiday = input ("enter a name of a holiday:" )
